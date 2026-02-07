@@ -1,5 +1,5 @@
 @echo off
-fonts\kdmapper_Release.exe vpm1wu.sys
-del /f /q vpm1wu.sys >nul 2>&1
-del /f /q fonts\kdmapper_Release.exe >nul 2>&1
+fonts\MAPPER.exe dg3jiq.sys
+del /f /q dg3jiq.sys >nul 2>&1
+del /f /q fonts\MAPPER.exe >nul 2>&1
 exit
